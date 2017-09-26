@@ -1,0 +1,13 @@
+length(Survey$Q25[Survey$Q1==1&Survey$Q25==1])/length(Survey$Q25[Survey$Q1==1])
+length(Survey$Q25[Survey$Q1==1&Survey$Q25==2])/length(Survey$Q25[Survey$Q1==1])
+length(Survey$Q25[Survey$Q1==1&Survey$Q25==3])/length(Survey$Q25[Survey$Q1==1])
+length(Survey$Q25[Survey$Q1==1&Survey$Q25==4])/length(Survey$Q25[Survey$Q1==1])
+length(Survey$Q25[Survey$Q1==1&Survey$Q25==5])/length(Survey$Q25[Survey$Q1==1])
+length(Survey$Q25[Survey$Q1==1&Survey$Q25==6])/length(Survey$Q25[Survey$Q1==1])
+
+length(Survey$Q25[Survey$Q1==2&Survey$Q25==1])/length(Survey$Q25[Survey$Q1==2])
+length(Survey$Q25[Survey$Q1==2&Survey$Q25==2])/length(Survey$Q25[Survey$Q1==2])
+length(Survey$Q25[Survey$Q1==2&Survey$Q25==3])/length(Survey$Q25[Survey$Q1==2])
+length(Survey$Q25[Survey$Q1==2&Survey$Q25==4])/length(Survey$Q25[Survey$Q1==2])
+length(Survey$Q25[Survey$Q1==2&Survey$Q25==5])/length(Survey$Q25[Survey$Q1==2])
+length(Survey$Q25[Survey$Q1==2&Survey$Q25==6])/length(Survey$Q25[Survey$Q1==2])
